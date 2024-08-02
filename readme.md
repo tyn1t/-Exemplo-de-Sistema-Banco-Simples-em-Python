@@ -1,6 +1,6 @@
 # Banco inu 
 
-## Exemplor de banco real Simples e fazer de fazer 
+## Exemplo de banco real Simples e fazer de fazer
 
 ### Funções do banco inu
 
